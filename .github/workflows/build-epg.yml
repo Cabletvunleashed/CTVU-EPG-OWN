@@ -1,0 +1,141 @@
+name: Build own EPG
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_grab:
+        description: 'Run the free guide grabbers now (normally every 6 hours)'
+        type: boolean
+        default: false
+  schedule:
+    - cron: "23 * * * *"   # hourly backup trigger; GitHub may run it late
+
+concurrency:
+  group: build-epg
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  PYTHONDONTWRITEBYTECODE: "1"
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 75
+    steps:
+      # No saved login during the build: the free grabbers run outside code, so the
+      # repo write token is only handed to the Publish step below.
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          # the latest main, not the commit this run was queued on: a run that waited behind
+          # another (concurrency) would otherwise publish that older grab/ over the newer one
+          # (2026-10-31: the 01:23 run undid the 01:16 forced grab)
+          ref: main
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # Fails (and keeps the last good guide live) if any download fails
+      - name: Download channel list and guides
+        env:
+          PROVIDER_XMLTV_URL: ${{ secrets.PROVIDER_XMLTV_URL }}
+        run: |
+          set -euo pipefail
+          mkdir -p work
+          api="${PROVIDER_XMLTV_URL/xmltv.php/player_api.php}"
+          ua="TiviMate/5.1.0 (Linux; Android 11)"
+          curl -fsS --retry 3 -m 180 -A "$ua" -o work/live.json "$api&action=get_live_streams"
+          curl -fsS --retry 3 -m 180 -A "$ua" -o work/cats.json "$api&action=get_live_categories"
+          curl -fsS --retry 3 -m 600 -A "Mozilla/5.0" -o work/provider.xml "$PROVIDER_XMLTV_URL"
+          curl -fsS --retry 3 -m 900 -o work/free.xml.gz https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+          python3 -c "import json;n=len(json.load(open('work/live.json')));print('channels',n);assert n>40000,'channel list too small'"
+
+      # Free iptv-org/epg grabbers (DirecTV, tvtv, TVPassport, Plex, Pluto) for channels
+      # that would otherwise only get a placeholder. Every 6 hours; if it fails, the last
+      # good grab/ files are kept and the build goes on without stopping.
+      - name: Free guide grabbers (every 6 hours)
+        continue-on-error: true
+        timeout-minutes: 45
+        env:
+          FORCE: ${{ inputs.force_grab }}
+        run: |
+          set -euo pipefail
+          mkdir -p grab
+          age=999999; [ -f grab/stamp ] && age=$(( $(date +%s) - $(cat grab/stamp) ))
+          if [ "${FORCE:-false}" != "true" ] && [ "$age" -lt 21600 ]; then
+            echo "Grabbed guide is $((age / 60)) min old - reusing it"; exit 0
+          fi
+          git clone -q --depth 1 https://github.com/iptv-org/epg /tmp/iptv-epg
+          mkdir -p /tmp/lists /tmp/grabnew
+          for s in directv.com tvtv.us tvpassport.com plex.tv pluto.tv sky.com; do
+            for f in /tmp/iptv-epg/sites/$s/*.channels.xml; do cp "$f" "/tmp/lists/grab_$(basename "$f")"; done
+          done
+          [ -f epg.xml.gz ] || { echo "no previous guide yet"; exit 1; }
+          # iptv-org channel database: lets make_grab_map.py reach their other working sites
+          # (optional: if the database can't be downloaded, the old 5-site grab still runs)
+          mkdir -p /tmp/api
+          api=(--api /tmp/api --sites-dir /tmp/iptv-epg/sites)
+          for f in channels guides feeds; do
+            curl -fsS --retry 3 -m 180 -o /tmp/api/$f.json https://iptv-org.github.io/api/$f.json || api=()
+          done
+          cp /tmp/iptv-epg/SITES.md /tmp/api/SITES.md || api=()
+          python3 scripts/make_grab_map.py --live work/live.json --cats work/cats.json \
+            --current epg.xml.gz --real-ids real_ids.json --lists /tmp/lists --out /tmp/grabnew "${api[@]}"
+          cd /tmp/iptv-epg
+          npm ci --no-audit --no-fund --loglevel=error
+          npm run grab -- --channels=/tmp/grabnew/custom.channels.xml --output=/tmp/grabnew/guide.xml \
+            --days=2 --maxConnections=10 --timeout=20000
+          cd "$GITHUB_WORKSPACE"
+          # extra sites: one at a time, each under its own time limit; a site that fails keeps
+          # its last good listings (grab/ext/) so one slow site can't wipe the others
+          python3 scripts/grab_ext.py /tmp/grabnew/custom.ext.channels.xml /tmp/iptv-epg grab/ext /tmp/grabnew/ext.xml \
+            || echo "extended grab failed - core only"
+          python3 -c "d=open('/tmp/grabnew/guide.xml',encoding='utf-8').read();n=d.count('<programme ');print('grabbed programmes',n);assert n>5000,'grab too small'"
+          python3 scripts/merge_guides.py /tmp/grabnew/guide.xml /tmp/grabnew/ext.xml
+          # keep the previous grab's not-yet-ended listings for channels this grab returned empty
+          # (plex/mjh are flaky per channel); never fails the step
+          python3 scripts/carry_forward.py /tmp/grabnew/guide.xml grab/guide.xml.gz || true
+          gzip -9 -n -f /tmp/grabnew/guide.xml
+          cp /tmp/grabnew/guide.xml.gz /tmp/grabnew/map.json /tmp/grabnew/custom.channels.xml grab/
+          if [ -f /tmp/grabnew/custom.ext.channels.xml ]; then cp /tmp/grabnew/custom.ext.channels.xml grab/; fi
+          if [ -f /tmp/grabnew/carry_forward.json ]; then cp /tmp/grabnew/carry_forward.json grab/; fi
+          date +%s > grab/stamp
+
+      - name: Build guide
+        run: |
+          extra=""
+          if [ -f grab/guide.xml.gz ] && [ -f grab/map.json ]; then
+            extra="--source grab=grab/guide.xml.gz --map grab/map.json"
+          fi
+          python3 scripts/own_epg.py --out out --live work/live.json --cats work/cats.json \
+            --provider-xmltv work/provider.xml --source free=work/free.xml.gz $extra
+          cp out/epg.xml.gz epg.xml.gz
+          cp out/real_ids.json real_ids.json
+          python3 -c "import json;r=json.load(open('out/report.json'));json.dump({k:r[k] for k in r if k!='matches'},open('report.json','w'),indent=1)"
+
+      # Single fresh commit, history replaced, so the repo stays small.
+      # The raw.githubusercontent.com address TiviMate uses never changes.
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}"
+          git config user.name "EPG Bot"
+          git config user.email "epg-bot@users.noreply.github.com"
+          git checkout --orphan publish
+          git rm -rq --cached . || true
+          rm -rf scripts/__pycache__
+          git add README.md .github scripts epg.xml.gz report.json real_ids.json
+          if [ -d grab ]; then git add grab; fi
+          git commit -q -m "Build EPG - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git push --force origin publish:${{ github.ref_name }} && exit 0
+            echo "Push failed (try $i of 3)"; [ $i -lt 3 ] && sleep $((i * 20))
+          done
+          exit 1
