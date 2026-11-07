@@ -1,0 +1,386 @@
+{
+ "airtelxstream.in": {
+  "ok": 1794029074,
+  "programmes": 3353,
+  "seconds": 8
+ },
+ "aljazeera.com": {
+  "last_fail": "0 programmes",
+  "ok": 1793538163,
+  "programmes": 22,
+  "seconds": 2
+ },
+ "anteltv.com.uy": {
+  "last_fail": "0 programmes"
+ },
+ "bein.com": {
+  "ok": 1794029074,
+  "programmes": 55,
+  "seconds": 3
+ },
+ "canalplus.com": {
+  "last_fail": "0 programmes"
+ },
+ "cgates.lt": {
+  "ok": 1794029074,
+  "programmes": 70,
+  "seconds": 13
+ },
+ "chaines-tv.orange.fr": {
+  "last_fail": "0 programmes"
+ },
+ "clickthecity.com": {
+  "last_fail": "0 programmes"
+ },
+ "dishtv.in": {
+  "ok": 1794029074,
+  "programmes": 983,
+  "seconds": 5
+ },
+ "distro.tv": {
+  "last_fail": "0 programmes"
+ },
+ "dsmart.com.tr": {
+  "last_fail": "0 programmes"
+ },
+ "dstv.com": {
+  "last_fail": "0 programmes",
+  "ok": 1794003870,
+  "programmes": 32,
+  "seconds": 31
+ },
+ "elcinema.com": {
+  "ok": 1794029074,
+  "programmes": 83,
+  "seconds": 3
+ },
+ "epg.iptvx.one": {
+  "ok": 1794029074,
+  "programmes": 503,
+  "seconds": 29
+ },
+ "epgmaster.com": {
+  "last_fail": "0 programmes"
+ },
+ "foxsports.com.au": {
+  "last_fail": "0 programmes"
+ },
+ "frikanalen.no": {
+  "last_fail": "0 programmes"
+ },
+ "galamtv.kz": {
+  "last_fail": "0 programmes"
+ },
+ "gatotv.com": {
+  "ok": 1794029074,
+  "programmes": 1246,
+  "seconds": 3
+ },
+ "gigatv.3bbtv.co.th": {
+  "ok": 1794029074,
+  "programmes": 65,
+  "seconds": 4
+ },
+ "guidatv.sky.it": {
+  "last_fail": "0 programmes"
+ },
+ "i.mjh.nz": {
+  "ok": 1794029074,
+  "programmes": 568,
+  "seconds": 7
+ },
+ "ipko.tv": {
+  "ok": 1794029074,
+  "programmes": 680,
+  "seconds": 4
+ },
+ "m.tv.sms.cz": {
+  "last_fail": "0 programmes"
+ },
+ "magticom.ge": {
+  "last_fail": "0 programmes"
+ },
+ "maxstream.tv": {
+  "last_fail": "0 programmes"
+ },
+ "maxtvgo.mk": {
+  "last_fail": "0 programmes"
+ },
+ "melita.com": {
+  "ok": 1794029074,
+  "programmes": 83,
+  "seconds": 2
+ },
+ "meo.pt": {
+  "ok": 1794029074,
+  "programmes": 294,
+  "seconds": 3
+ },
+ "mi.tv": {
+  "ok": 1794029074,
+  "programmes": 2044,
+  "seconds": 5
+ },
+ "mon-programme-tv.be": {
+  "last_fail": "0 programmes",
+  "ok": 1794003870,
+  "programmes": 77,
+  "seconds": 3
+ },
+ "movistarplus.es": {
+  "ok": 1794029074,
+  "programmes": 135,
+  "seconds": 17
+ },
+ "mujtvprogram.cz": {
+  "ok": 1794029074,
+  "programmes": 144,
+  "seconds": 3
+ },
+ "neo.io": {
+  "ok": 1794029074,
+  "programmes": 354,
+  "seconds": 3
+ },
+ "novasports.gr": {
+  "last_fail": "0 programmes"
+ },
+ "nowplayer.now.com": {
+  "ok": 1794029074,
+  "programmes": 35,
+  "seconds": 6
+ },
+ "nuevosiglo.com.uy": {
+  "last_fail": "0 programmes",
+  "ok": 1793460265,
+  "programmes": 39,
+  "seconds": 7
+ },
+ "ontvtonight.com": {
+  "ok": 1794029074,
+  "programmes": 322,
+  "seconds": 3
+ },
+ "orangetv.orange.es": {
+  "ok": 1794029074,
+  "programmes": 854,
+  "seconds": 7
+ },
+ "osn.com": {
+  "ok": 1794029074,
+  "programmes": 96,
+  "seconds": 30
+ },
+ "play.tv": {
+  "ok": 1794029074,
+  "programmes": 42,
+  "seconds": 2
+ },
+ "programacion-tv.elpais.com": {
+  "ok": 1794029074,
+  "programmes": 113,
+  "seconds": 2
+ },
+ "programetv.ro": {
+  "ok": 1794029074,
+  "programmes": 609,
+  "seconds": 5
+ },
+ "programtv.onet.pl": {
+  "ok": 1794029074,
+  "programmes": 1786,
+  "seconds": 59
+ },
+ "reportv.com.ar": {
+  "ok": 1794029074,
+  "programmes": 200,
+  "seconds": 16
+ },
+ "roya-tv.com": {
+  "ok": 1794029074,
+  "programmes": 406,
+  "seconds": 7
+ },
+ "sat.tv": {
+  "last_fail": "0 programmes"
+ },
+ "shahid.mbc.net": {
+  "ok": 1794029074,
+  "programmes": 156,
+  "seconds": 2
+ },
+ "siba.com.co": {
+  "ok": 1794029074,
+  "programmes": 430,
+  "seconds": 22
+ },
+ "singtel.com": {
+  "ok": 1794029074,
+  "programmes": 278,
+  "seconds": 2
+ },
+ "sky.com": {
+  "ok": 1794029074,
+  "programmes": 915,
+  "seconds": 3
+ },
+ "snrt.ma": {
+  "last_fail": "0 programmes"
+ },
+ "superguidatv.it": {
+  "last_fail": "0 programmes"
+ },
+ "tapdmv.com": {
+  "last_fail": "0 programmes"
+ },
+ "tataplay.com": {
+  "ok": 1794029074,
+  "programmes": 461,
+  "seconds": 4
+ },
+ "teleboy.ch": {
+  "last_fail": "0 programmes"
+ },
+ "telenet.tv": {
+  "ok": 1794029074,
+  "programmes": 198,
+  "seconds": 4
+ },
+ "turksatkablo.com.tr": {
+  "last_fail": "0 programmes"
+ },
+ "tv-programme.telecablesat.fr": {
+  "ok": 1794029074,
+  "programmes": 75,
+  "seconds": 25
+ },
+ "tv.blue.ch": {
+  "ok": 1794029074,
+  "programmes": 3056,
+  "seconds": 5
+ },
+ "tv.dir.bg": {
+  "ok": 1794029074,
+  "programmes": 1675,
+  "seconds": 44
+ },
+ "tv.mail.ru": {
+  "last_fail": "0 programmes"
+ },
+ "tv.movistar.com.pe": {
+  "ok": 1794029074,
+  "programmes": 100,
+  "seconds": 4
+ },
+ "tv.post.lu": {
+  "ok": 1794029074,
+  "programmes": 23,
+  "seconds": 3
+ },
+ "tv.sfr.fr": {
+  "ok": 1794029074,
+  "programmes": 685,
+  "seconds": 6
+ },
+ "tv.trueid.net": {
+  "ok": 1794029074,
+  "programmes": 38,
+  "seconds": 11
+ },
+ "tv24.se": {
+  "last_fail": "0 programmes",
+  "ok": 1794003870,
+  "programmes": 10,
+  "seconds": 3
+ },
+ "tv2go.t-2.net": {
+  "ok": 1794029074,
+  "programmes": 922,
+  "seconds": 3
+ },
+ "tvcesoir.fr": {
+  "last_fail": "0 programmes"
+ },
+ "tvgids.nl": {
+  "ok": 1794029074,
+  "programmes": 296,
+  "seconds": 3
+ },
+ "tvguide.com": {
+  "ok": 1794029074,
+  "programmes": 185,
+  "seconds": 9
+ },
+ "tvhebdo.com": {
+  "ok": 1794029074,
+  "programmes": 255,
+  "seconds": 3
+ },
+ "tvheute.at": {
+  "ok": 1794029074,
+  "programmes": 175,
+  "seconds": 3
+ },
+ "tvmusor.hu": {
+  "last_fail": "0 programmes"
+ },
+ "tvpassport.com": {
+  "ok": 1794029074,
+  "programmes": 543,
+  "seconds": 4
+ },
+ "tvplus.com.tr": {
+  "ok": 1794029074,
+  "programmes": 161,
+  "seconds": 5
+ },
+ "vidio.com": {
+  "last_fail": "0 programmes"
+ },
+ "visionplus.id": {
+  "ok": 1794029074,
+  "programmes": 717,
+  "seconds": 5
+ },
+ "vrt.be": {
+  "ok": 1794029074,
+  "programmes": 25,
+  "seconds": 3
+ },
+ "watch.whaletvplus.com": {
+  "ok": 1794029074,
+  "programmes": 161,
+  "seconds": 3
+ },
+ "wavve.com": {
+  "last_fail": "0 programmes"
+ },
+ "web.magentatv.de": {
+  "ok": 1794029074,
+  "programmes": 2705,
+  "seconds": 13
+ },
+ "webtv.delta.nl": {
+  "ok": 1794029074,
+  "programmes": 1157,
+  "seconds": 27
+ },
+ "worldfishingnetwork.com": {
+  "ok": 1794029074,
+  "programmes": 77,
+  "seconds": 2
+ },
+ "zap.co.ao": {
+  "last_fail": "0 programmes"
+ },
+ "zee5.com": {
+  "ok": 1794029074,
+  "programmes": 85,
+  "seconds": 3
+ },
+ "ziggogo.tv": {
+  "ok": 1794029074,
+  "programmes": 263,
+  "seconds": 6
+ }
+}
