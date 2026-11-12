@@ -1,0 +1,42 @@
+{
+ "built_at": "2026-11-12T22:18:40+00:00",
+ "provider_streams": 57032,
+ "grab_map_entries": 4938,
+ "name_hints": 266,
+ "ignored_provider_tags": {
+  "TS": 422
+ },
+ "streams_by_listing_type": {
+  "placeholder": 41394,
+  "free:name": 5207,
+  "grab:map": 3818,
+  "provider:name": 778,
+  "free:name(app)": 254,
+  "native:map": 351,
+  "copy:grab": 40,
+  "hint:free": 236,
+  "copy:free": 30,
+  "provider:id": 3492,
+  "copy:provider": 105,
+  "free:name(country fix)": 5,
+  "provider:name(country fix)": 8
+ },
+ "copies_by_source_method": {
+  "grab:map": 40,
+  "hint:free": 4,
+  "free:name(app)": 15,
+  "free:name": 11,
+  "provider:id": 94,
+  "provider:name": 11
+ },
+ "unique_stream_names": 55718,
+ "guide_channels_real": 6844,
+ "guide_channels_placeholder": 39410,
+ "placeholder_events": 2493,
+ "programmes_real": 337593,
+ "programmes_placeholder": 201810,
+ "xml_mb": 202.7,
+ "problems": [],
+ "gz_mb": 22.3,
+ "seconds": 154.1
+}
