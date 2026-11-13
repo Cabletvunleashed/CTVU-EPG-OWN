@@ -1,0 +1,54 @@
+name: LAB LA grab test (TRIAL branch only)
+
+# TRIAL-ONLY lab (never ship): can the iptv-org grabbers of the Latin-American sites run from a GitHub runner?
+# Grabs lab/la.ext.channels.xml per site under its own time limit and writes lab/out/ (summary + result) to this branch only.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: lab-la-grab
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: trial-la-grab-20261113
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Grab
+        run: |
+          set -uo pipefail
+          git clone -q --depth 1 https://github.com/iptv-org/epg /tmp/iptv-epg
+          (cd /tmp/iptv-epg && git log -1 --format='iptv-org/epg %h %cd' && node --version && npm ci --no-audit --no-fund --loglevel=error)
+          mkdir -p lab/out lab/store
+          EXT_SITE_SECONDS=300 EXT_TOTAL_SECONDS=2400 python3 scripts/grab_ext.py lab/la.ext.channels.xml /tmp/iptv-epg lab/store lab/out/la_grab.xml || echo "grab_ext failed"
+          cat lab/store/status.json
+          python3 - <<'PY'
+          import re,json,collections
+          d=open('lab/out/la_grab.xml',encoding='utf-8',errors='ignore').read()
+          n=collections.Counter(re.findall(r'<programme [^>]*channel="([^"]*)"',d))
+          json.dump(n,open('lab/out/per_channel_counts.json','w'))
+          print('channels with programmes',len(n),'total programmes',sum(n.values()))
+          PY
+          gzip -9 -n -f lab/out/la_grab.xml
+          rm -rf lab/store
+      - name: Publish lab result to this branch only
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}"
+          git config user.name "EPG Bot"
+          git config user.email "epg-bot@users.noreply.github.com"
+          git checkout -q --orphan publish
+          git add lab .github scripts
+          git commit -q -m "LAB LA grab - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push --force origin publish:${{ github.ref_name }}

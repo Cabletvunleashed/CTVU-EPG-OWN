@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="reportv.com.ar" site_id="1117" lang="es" xmltv_id="lab.507">SY FY</channel>
+  <channel site="reportv.com.ar" site_id="1181" lang="es" xmltv_id="lab.508">DISCOVERY HD THEATER</channel>
+  <channel site="reportv.com.ar" site_id="1226" lang="es" xmltv_id="lab.509">NICK JR</channel>
+  <channel site="reportv.com.ar" site_id="1229" lang="es" xmltv_id="lab.510">NICKELODEON</channel>
+  <channel site="reportv.com.ar" site_id="1258" lang="es" xmltv_id="lab.511">SPACE HD</channel>
+  <channel site="reportv.com.ar" site_id="1348" lang="es" xmltv_id="lab.512">HBO MUNDI</channel>
+  <channel site="reportv.com.ar" site_id="1362" lang="es" xmltv_id="lab.513">AMC</channel>
+  <channel site="reportv.com.ar" site_id="137" lang="es" xmltv_id="lab.514">DE PELICULA</channel>
+  <channel site="reportv.com.ar" site_id="1537" lang="es" xmltv_id="lab.515">STAR CHANNEL HD</channel>
+  <channel site="reportv.com.ar" site_id="1752" lang="es" xmltv_id="lab.516">MAS CHIC</channel>
+  <channel site="reportv.com.ar" site_id="1835" lang="es" xmltv_id="lab.517">GLITZ</channel>
+  <channel site="reportv.com.ar" site_id="2037" lang="es" xmltv_id="lab.518">COMEDY CENTRAL</channel>
+  <channel site="reportv.com.ar" site_id="2165" lang="es" xmltv_id="lab.519">HBO PLUS</channel>
+  <channel site="reportv.com.ar" site_id="2204" lang="es" xmltv_id="lab.520">SPACE</channel>
+  <channel site="reportv.com.ar" site_id="2790" lang="es" xmltv_id="lab.521">LIFETIME</channel>
+  <channel site="reportv.com.ar" site_id="3041" lang="es" xmltv_id="lab.522">TNT SERIES</channel>
+  <channel site="reportv.com.ar" site_id="334" lang="es" xmltv_id="lab.523">HBO XTREME</channel>
+  <channel site="reportv.com.ar" site_id="335" lang="es" xmltv_id="lab.524">HBO FAMILY</channel>
+  <channel site="reportv.com.ar" site_id="3467" lang="es" xmltv_id="lab.525">CINECANAL</channel>
+  <channel site="reportv.com.ar" site_id="374" lang="es" xmltv_id="lab.526">CUBAVISION</channel>
+  <channel site="reportv.com.ar" site_id="396" lang="es" xmltv_id="lab.527">DISCOVERY KIDS</channel>
+  <channel site="reportv.com.ar" site_id="401" lang="es" xmltv_id="lab.528">GOLDEN</channel>
+  <channel site="reportv.com.ar" site_id="403" lang="es" xmltv_id="lab.529">CARTOON NETWORK</channel>
+  <channel site="reportv.com.ar" site_id="4055" lang="es" xmltv_id="lab.530">BOLIVIA TV</channel>
+  <channel site="reportv.com.ar" site_id="413" lang="es" xmltv_id="lab.531">ENLACE</channel>
+  <channel site="reportv.com.ar" site_id="423" lang="es" xmltv_id="lab.532">UNIVERSAL CHANNEL</channel>
+  <channel site="reportv.com.ar" site_id="438" lang="es" xmltv_id="lab.533">DISCOVERY CHANNEL</channel>
+  <channel site="reportv.com.ar" site_id="445" lang="es" xmltv_id="lab.534">HISTORY</channel>
+  <channel site="reportv.com.ar" site_id="4527" lang="es" xmltv_id="lab.535">GOLDEN EDGE HD</channel>
+  <channel site="reportv.com.ar" site_id="461" lang="es" xmltv_id="lab.536">TNT</channel>
+  <channel site="reportv.com.ar" site_id="466" lang="es" xmltv_id="lab.537">WARNER</channel>
+  <channel site="reportv.com.ar" site_id="473" lang="es" xmltv_id="lab.538">EL GOURMET</channel>
+  <channel site="reportv.com.ar" site_id="479" lang="es" xmltv_id="lab.539">AXN</channel>
+  <channel site="reportv.com.ar" site_id="492" lang="es" xmltv_id="lab.540">DISCOVERY TURBO</channel>
+  <channel site="reportv.com.ar" site_id="4993" lang="es" xmltv_id="lab.541">GOLDEN PLUS HD</channel>
+  <channel site="reportv.com.ar" site_id="500" lang="es" xmltv_id="lab.542">HBO SIGNATURE</channel>
+  <channel site="reportv.com.ar" site_id="580" lang="es" xmltv_id="lab.543">STUDIO UNIVERSAL</channel>
+  <channel site="reportv.com.ar" site_id="6223" lang="es" xmltv_id="lab.544">CLAROSPORTS</channel>
+  <channel site="reportv.com.ar" site_id="695" lang="es" xmltv_id="lab.545">BABY TV</channel>
+  <channel site="reportv.com.ar" site_id="6996" lang="es" xmltv_id="lab.546">DIRECTV SPORTS</channel>
+  <channel site="reportv.com.ar" site_id="6997" lang="es" xmltv_id="lab.547">DIRECTV SPORTS HD</channel>
+  <channel site="reportv.com.ar" site_id="6998" lang="es" xmltv_id="lab.548">DIRECTV SPORTS 2</channel>
+  <channel site="reportv.com.ar" site_id="6999" lang="es" xmltv_id="lab.549">DIRECTV SPORTS 2 HD</channel>
+  <channel site="reportv.com.ar" site_id="7000" lang="es" xmltv_id="lab.550">DIRECTV SPORTS +</channel>
+  <channel site="reportv.com.ar" site_id="7001" lang="es" xmltv_id="lab.551">DIRECTV SPORTS + HD</channel>
+  <channel site="reportv.com.ar" site_id="778" lang="es" xmltv_id="lab.552">STAR CHANNEL</channel>
+  <channel site="reportv.com.ar" site_id="880" lang="es" xmltv_id="lab.553">TOONCAST</channel>
+  <channel site="reportv.com.ar" site_id="910" lang="es" xmltv_id="lab.554">TCM</channel>
+</channels>

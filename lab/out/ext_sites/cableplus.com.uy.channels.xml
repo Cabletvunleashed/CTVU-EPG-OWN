@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="cableplus.com.uy" site_id="100" lang="es" xmltv_id="lab.0">AXN</channel>
+  <channel site="cableplus.com.uy" site_id="1120" lang="es" xmltv_id="lab.1">STUDIO UNIVERSAL</channel>
+  <channel site="cableplus.com.uy" site_id="1181" lang="es" xmltv_id="lab.2">DISCOVERY HD THEATER</channel>
+  <channel site="cableplus.com.uy" site_id="12" lang="es" xmltv_id="lab.3">HBO MUNDI</channel>
+  <channel site="cableplus.com.uy" site_id="125" lang="es" xmltv_id="lab.4">EL GOURMET</channel>
+  <channel site="cableplus.com.uy" site_id="1378" lang="es" xmltv_id="lab.5">HBO POP</channel>
+  <channel site="cableplus.com.uy" site_id="1389" lang="es" xmltv_id="lab.6">DISCOVERY WORLD HD</channel>
+  <channel site="cableplus.com.uy" site_id="15" lang="es" xmltv_id="lab.7">CINECANAL</channel>
+  <channel site="cableplus.com.uy" site_id="1552" lang="es" xmltv_id="lab.8">CGTN</channel>
+  <channel site="cableplus.com.uy" site_id="178" lang="es" xmltv_id="lab.9">HISTORY</channel>
+  <channel site="cableplus.com.uy" site_id="1862" lang="es" xmltv_id="lab.10">AXN HD</channel>
+  <channel site="cableplus.com.uy" site_id="226" lang="es" xmltv_id="lab.11">CARTOON NETWORK</channel>
+  <channel site="cableplus.com.uy" site_id="265" lang="es" xmltv_id="lab.12">TNT</channel>
+  <channel site="cableplus.com.uy" site_id="2788" lang="es" xmltv_id="lab.13">LIFETIME</channel>
+  <channel site="cableplus.com.uy" site_id="2845" lang="es" xmltv_id="lab.14">CARTOON NETWORK HD</channel>
+  <channel site="cableplus.com.uy" site_id="3064" lang="es" xmltv_id="lab.15">STAR CHANNEL HD</channel>
+  <channel site="cableplus.com.uy" site_id="3223" lang="es" xmltv_id="lab.16">DISCOVERY TURBO HD</channel>
+  <channel site="cableplus.com.uy" site_id="3244" lang="es" xmltv_id="lab.17">EL GOURMET HD</channel>
+  <channel site="cableplus.com.uy" site_id="3246" lang="es" xmltv_id="lab.18">NAT GEO HD</channel>
+  <channel site="cableplus.com.uy" site_id="33" lang="es" xmltv_id="lab.19">SPACE</channel>
+  <channel site="cableplus.com.uy" site_id="335" lang="es" xmltv_id="lab.20">HBO FAMILY</channel>
+  <channel site="cableplus.com.uy" site_id="3445" lang="es" xmltv_id="lab.21">CINECANAL HD</channel>
+  <channel site="cableplus.com.uy" site_id="3573" lang="es" xmltv_id="lab.22">LIFETIME HD</channel>
+  <channel site="cableplus.com.uy" site_id="3787" lang="es" xmltv_id="lab.23">WARNER HD</channel>
+  <channel site="cableplus.com.uy" site_id="4054" lang="es" xmltv_id="lab.24">TNT HD</channel>
+  <channel site="cableplus.com.uy" site_id="451" lang="es" xmltv_id="lab.25">STAR CHANNEL</channel>
+  <channel site="cableplus.com.uy" site_id="4535" lang="es" xmltv_id="lab.26">SPACE HD</channel>
+  <channel site="cableplus.com.uy" site_id="46" lang="es" xmltv_id="lab.27">WARNER</channel>
+  <channel site="cableplus.com.uy" site_id="492" lang="es" xmltv_id="lab.28">DISCOVERY TURBO</channel>
+  <channel site="cableplus.com.uy" site_id="500" lang="es" xmltv_id="lab.29">HBO SIGNATURE</channel>
+  <channel site="cableplus.com.uy" site_id="5201" lang="es" xmltv_id="lab.30">HISTORY HD (SE COPIA DE SD)</channel>
+  <channel site="cableplus.com.uy" site_id="695" lang="es" xmltv_id="lab.31">BABY TV</channel>
+  <channel site="cableplus.com.uy" site_id="76" lang="es" xmltv_id="lab.32">DISCOVERY KIDS</channel>
+  <channel site="cableplus.com.uy" site_id="880" lang="es" xmltv_id="lab.33">TOONCAST</channel>
+</channels>

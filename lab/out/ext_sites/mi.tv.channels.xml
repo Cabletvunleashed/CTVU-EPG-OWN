@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="mi.tv" site_id="ar#amc" lang="es" xmltv_id="lab.34">AMC</channel>
+  <channel site="mi.tv" site_id="ar#axn" lang="es" xmltv_id="lab.35">AXN</channel>
+  <channel site="mi.tv" site_id="ar#babytv" lang="es" xmltv_id="lab.36">BabyTV</channel>
+  <channel site="mi.tv" site_id="ar#cartoon-network" lang="es" xmltv_id="lab.37">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="ar#cinecanal" lang="es" xmltv_id="lab.38">Cinecanal</channel>
+  <channel site="mi.tv" site_id="ar#cnn-chile" lang="es" xmltv_id="lab.39">CNN Chile</channel>
+  <channel site="mi.tv" site_id="ar#comedy-central" lang="es" xmltv_id="lab.40">Comedy Central</channel>
+  <channel site="mi.tv" site_id="ar#discovery" lang="es" xmltv_id="lab.41">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="ar#discovery-hd-theater" lang="es" xmltv_id="lab.42">Discovery Theater</channel>
+  <channel site="mi.tv" site_id="ar#discovery-home-and-health" lang="es" xmltv_id="lab.43">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="ar#discovery-kids" lang="es" xmltv_id="lab.44">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="ar#discovery-turbo" lang="es" xmltv_id="lab.45">Discovery Turbo</channel>
+  <channel site="mi.tv" site_id="ar#discovery-world-hd" lang="es" xmltv_id="lab.46">Discovery World</channel>
+  <channel site="mi.tv" site_id="ar#disney" lang="es" xmltv_id="lab.47">Disney Channel</channel>
+  <channel site="mi.tv" site_id="ar#disney-jr" lang="es" xmltv_id="lab.48">Disney Junior</channel>
+  <channel site="mi.tv" site_id="ar#disney-xd" lang="es" xmltv_id="lab.49">Disney XD</channel>
+  <channel site="mi.tv" site_id="ar#el-gourmet" lang="es" xmltv_id="lab.50">El Gourmet</channel>
+  <channel site="mi.tv" site_id="ar#fox" lang="es" xmltv_id="lab.51">Star Channel</channel>
+  <channel site="mi.tv" site_id="ar#fox-1-este" lang="es" xmltv_id="lab.52">Star Series</channel>
+  <channel site="mi.tv" site_id="ar#fox-1-hd" lang="es" xmltv_id="lab.53">Star Series HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-1-oeste" lang="es" xmltv_id="lab.54">Star Series (Oeste)</channel>
+  <channel site="mi.tv" site_id="ar#fox-action" lang="es" xmltv_id="lab.55">Star Action</channel>
+  <channel site="mi.tv" site_id="ar#fox-action-hd" lang="es" xmltv_id="lab.56">Star Action HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-action-oeste" lang="es" xmltv_id="lab.57">Star Action (Oeste)</channel>
+  <channel site="mi.tv" site_id="ar#fox-classics" lang="es" xmltv_id="lab.58">Star Classics</channel>
+  <channel site="mi.tv" site_id="ar#fox-comedy-hd" lang="es" xmltv_id="lab.59">Star Comedy HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-family" lang="es" xmltv_id="lab.60">Star Fun</channel>
+  <channel site="mi.tv" site_id="ar#fox-family-hd" lang="es" xmltv_id="lab.61">Star Fun HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-family-oeste" lang="es" xmltv_id="lab.62">Star Fun (Oeste)</channel>
+  <channel site="mi.tv" site_id="ar#fox-hd" lang="es" xmltv_id="lab.63">Star Channel HD</channel>
+  <channel site="mi.tv" site_id="ar#glitz" lang="es" xmltv_id="lab.64">Glitz</channel>
+  <channel site="mi.tv" site_id="ar#golden" lang="es" xmltv_id="lab.65">Golden</channel>
+  <channel site="mi.tv" site_id="ar#golden-edge" lang="es" xmltv_id="lab.66">Golden Edge</channel>
+  <channel site="mi.tv" site_id="ar#h2" lang="es" xmltv_id="lab.67">History 2</channel>
+  <channel site="mi.tv" site_id="ar#hbo-family" lang="es" xmltv_id="lab.68">HBO Family</channel>
+  <channel site="mi.tv" site_id="ar#hbo-family-hd" lang="es" xmltv_id="lab.69">HBO Family HD</channel>
+  <channel site="mi.tv" site_id="ar#hbo-plus-panamericano-hd" lang="es" xmltv_id="lab.70">HBO Plus (Panamericano HD)</channel>
+  <channel site="mi.tv" site_id="ar#hbo-signature" lang="es" xmltv_id="lab.71">HBO Signature</channel>
+  <channel site="mi.tv" site_id="ar#hbo-signature-hd" lang="es" xmltv_id="lab.72">HBO Signature HD</channel>
+  <channel site="mi.tv" site_id="ar#history" lang="es" xmltv_id="lab.73">History</channel>
+  <channel site="mi.tv" site_id="ar#investigation-discovery" lang="es" xmltv_id="lab.74">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="ar#lifetime" lang="es" xmltv_id="lab.75">Lifetime</channel>
+  <channel site="mi.tv" site_id="ar#max" lang="es" xmltv_id="lab.76">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="ar#max-prime" lang="es" xmltv_id="lab.77">HBO Xtreme</channel>
+  <channel site="mi.tv" site_id="ar#max-prime-o" lang="es" xmltv_id="lab.78">HBO Xtreme (Oeste)</channel>
+  <channel site="mi.tv" site_id="ar#max-prime-panamericano-hd" lang="es" xmltv_id="lab.79">HBO Xtreme (Panamericano HD)</channel>
+  <channel site="mi.tv" site_id="ar#max-prime-panregional-hd" lang="es" xmltv_id="lab.80">HBO Xtreme (Panregional HD)</channel>
+  <channel site="mi.tv" site_id="ar#max-up" lang="es" xmltv_id="lab.81">HBO Pop</channel>
+  <channel site="mi.tv" site_id="ar#nick-jr" lang="es" xmltv_id="lab.82">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="ar#nickelodeon-hd" lang="es" xmltv_id="lab.83">Nick 2</channel>
+  <channel site="mi.tv" site_id="ar#nicktoons" lang="es" xmltv_id="lab.84">NickToons</channel>
+  <channel site="mi.tv" site_id="ar#space" lang="es" xmltv_id="lab.85">Space</channel>
+  <channel site="mi.tv" site_id="ar#studio-universal" lang="es" xmltv_id="lab.86">Studio Universal</channel>
+  <channel site="mi.tv" site_id="ar#syfy" lang="es" xmltv_id="lab.87">Syfy</channel>
+  <channel site="mi.tv" site_id="ar#tcm" lang="es" xmltv_id="lab.88">TCM</channel>
+  <channel site="mi.tv" site_id="ar#tnt" lang="es" xmltv_id="lab.89">TNT</channel>
+  <channel site="mi.tv" site_id="ar#tnt-series" lang="es" xmltv_id="lab.90">TNT Series</channel>
+  <channel site="mi.tv" site_id="ar#tooncast" lang="es" xmltv_id="lab.91">Tooncast</channel>
+  <channel site="mi.tv" site_id="ar#uruguay-natural-uruguay" lang="es" xmltv_id="lab.92">Uruguay Natural TV</channel>
+  <channel site="mi.tv" site_id="ar#vh1" lang="es" xmltv_id="lab.93">VH1</channel>
+  <channel site="mi.tv" site_id="cl#amc" lang="es" xmltv_id="lab.94">AMC</channel>
+  <channel site="mi.tv" site_id="cl#axn" lang="es" xmltv_id="lab.95">AXN</channel>
+  <channel site="mi.tv" site_id="cl#babytv" lang="es" xmltv_id="lab.96">BabyTV</channel>
+  <channel site="mi.tv" site_id="cl#cartoon-network" lang="es" xmltv_id="lab.97">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="cl#cinecanal" lang="es" xmltv_id="lab.98">Cinecanal</channel>
+  <channel site="mi.tv" site_id="cl#cinecanal-hd" lang="es" xmltv_id="lab.99">Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="cl#cnn-chile" lang="es" xmltv_id="lab.100">CNN Chile</channel>
+  <channel site="mi.tv" site_id="cl#comedy-central" lang="es" xmltv_id="lab.101">Comedy Central</channel>
+  <channel site="mi.tv" site_id="cl#discovery" lang="es" xmltv_id="lab.102">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="cl#discovery-hd-theater" lang="es" xmltv_id="lab.103">Discovery Theater</channel>
+  <channel site="mi.tv" site_id="cl#discovery-home-and-health" lang="es" xmltv_id="lab.104">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="cl#discovery-home-and-health-hd" lang="es" xmltv_id="lab.105">Discovery Home &amp; Health HD</channel>
+  <channel site="mi.tv" site_id="cl#discovery-id" lang="es" xmltv_id="lab.106">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="cl#discovery-id-hd" lang="es" xmltv_id="lab.107">Investigation Discovery HD</channel>
+  <channel site="mi.tv" site_id="cl#discovery-kids" lang="es" xmltv_id="lab.108">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="cl#discovery-kids-hd" lang="es" xmltv_id="lab.109">Discovery Kids HD</channel>
+  <channel site="mi.tv" site_id="cl#discovery-turbo" lang="es" xmltv_id="lab.110">Discovery Turbo</channel>
+  <channel site="mi.tv" site_id="cl#discovery-world-hd" lang="es" xmltv_id="lab.111">Discovery World</channel>
+  <channel site="mi.tv" site_id="cl#disney-channel" lang="es" xmltv_id="lab.112">Disney Channel</channel>
+  <channel site="mi.tv" site_id="cl#disney-hd" lang="es" xmltv_id="lab.113">Disney Channel HD</channel>
+  <channel site="mi.tv" site_id="cl#disney-jr" lang="es" xmltv_id="lab.114">Disney Junior</channel>
+  <channel site="mi.tv" site_id="cl#disney-xd" lang="es" xmltv_id="lab.115">Disney XD</channel>
+  <channel site="mi.tv" site_id="cl#el-gourmet" lang="es" xmltv_id="lab.116">El Gourmet</channel>
+  <channel site="mi.tv" site_id="cl#fox" lang="es" xmltv_id="lab.117">Star Channel</channel>
+  <channel site="mi.tv" site_id="cl#fox-1-este" lang="es" xmltv_id="lab.118">Star Series</channel>
+  <channel site="mi.tv" site_id="cl#fox-1-hd" lang="es" xmltv_id="lab.119">Star Series HD</channel>
+  <channel site="mi.tv" site_id="cl#fox-1-oeste" lang="es" xmltv_id="lab.120">Star Series (Oeste)</channel>
+  <channel site="mi.tv" site_id="cl#fox-action" lang="es" xmltv_id="lab.121">Star Action</channel>
+  <channel site="mi.tv" site_id="cl#fox-action-hd" lang="es" xmltv_id="lab.122">Star Action HD</channel>
+  <channel site="mi.tv" site_id="cl#fox-action-oeste" lang="es" xmltv_id="lab.123">Star Action (Oeste)</channel>
+  <channel site="mi.tv" site_id="cl#fox-comedy-hd" lang="es" xmltv_id="lab.124">Star Comedy HD</channel>
+  <channel site="mi.tv" site_id="cl#fox-family" lang="es" xmltv_id="lab.125">Star Fun</channel>
+  <channel site="mi.tv" site_id="cl#fox-family-hd" lang="es" xmltv_id="lab.126">Star Fun HD</channel>
+  <channel site="mi.tv" site_id="cl#fox-family-oeste" lang="es" xmltv_id="lab.127">Star Fun (Oeste)</channel>
+  <channel site="mi.tv" site_id="cl#fox-hd" lang="es" xmltv_id="lab.128">Star Channel HD</channel>
+  <channel site="mi.tv" site_id="cl#fox-premium-classics" lang="es" xmltv_id="lab.129">Star Classics</channel>
+  <channel site="mi.tv" site_id="cl#fox-premium-classics-hd" lang="es" xmltv_id="lab.130">Star Classics HD</channel>
+  <channel site="mi.tv" site_id="cl#fox-premium-comedy" lang="es" xmltv_id="lab.131">Star Comedy</channel>
+  <channel site="mi.tv" site_id="cl#glitz" lang="es" xmltv_id="lab.132">Glitz</channel>
+  <channel site="mi.tv" site_id="cl#golden" lang="es" xmltv_id="lab.133">Golden</channel>
+  <channel site="mi.tv" site_id="cl#golden-edge" lang="es" xmltv_id="lab.134">Golden Edge</channel>
+  <channel site="mi.tv" site_id="cl#h2" lang="es" xmltv_id="lab.135">History 2</channel>
+  <channel site="mi.tv" site_id="cl#hbo-family" lang="es" xmltv_id="lab.136">HBO Family</channel>
+  <channel site="mi.tv" site_id="cl#hbo-signature" lang="es" xmltv_id="lab.137">HBO Signature</channel>
+  <channel site="mi.tv" site_id="cl#history" lang="es" xmltv_id="lab.138">History</channel>
+  <channel site="mi.tv" site_id="cl#lifetime" lang="es" xmltv_id="lab.139">Lifetime</channel>
+  <channel site="mi.tv" site_id="cl#max" lang="es" xmltv_id="lab.140">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="cl#max-prime" lang="es" xmltv_id="lab.141">HBO Xtreme</channel>
+  <channel site="mi.tv" site_id="cl#max-prime-o" lang="es" xmltv_id="lab.142">HBO Xtreme (Oeste)</channel>
+  <channel site="mi.tv" site_id="cl#max-up" lang="es" xmltv_id="lab.143">HBO Pop</channel>
+  <channel site="mi.tv" site_id="cl#mtv-live-hd" lang="es" xmltv_id="lab.144">MTV Live HD</channel>
+  <channel site="mi.tv" site_id="cl#nick-jr" lang="es" xmltv_id="lab.145">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="cl#nickelodeon-hd" lang="es" xmltv_id="lab.146">Nick 2</channel>
+  <channel site="mi.tv" site_id="cl#space" lang="es" xmltv_id="lab.147">Space</channel>
+  <channel site="mi.tv" site_id="cl#space-hd" lang="es" xmltv_id="lab.148">Space HD</channel>
+  <channel site="mi.tv" site_id="cl#studio-universal" lang="es" xmltv_id="lab.149">Studio Universal</channel>
+  <channel site="mi.tv" site_id="cl#syfy" lang="es" xmltv_id="lab.150">Syfy</channel>
+  <channel site="mi.tv" site_id="cl#tcm" lang="es" xmltv_id="lab.151">TCM</channel>
+  <channel site="mi.tv" site_id="cl#tnt" lang="es" xmltv_id="lab.152">TNT</channel>
+  <channel site="mi.tv" site_id="cl#tnt-series" lang="es" xmltv_id="lab.153">TNT Series</channel>
+  <channel site="mi.tv" site_id="cl#tooncast" lang="es" xmltv_id="lab.154">Tooncast</channel>
+  <channel site="mi.tv" site_id="cl#tvn" lang="es" xmltv_id="lab.155">TVN</channel>
+  <channel site="mi.tv" site_id="cl#vh1" lang="es" xmltv_id="lab.156">VH1</channel>
+  <channel site="mi.tv" site_id="co#amc" lang="es" xmltv_id="lab.157">AMC</channel>
+  <channel site="mi.tv" site_id="co#amc-hd" lang="es" xmltv_id="lab.158">AMC HD</channel>
+  <channel site="mi.tv" site_id="co#axn" lang="es" xmltv_id="lab.159">AXN</channel>
+  <channel site="mi.tv" site_id="co#axn-hd" lang="es" xmltv_id="lab.160">AXN HD</channel>
+  <channel site="mi.tv" site_id="co#cartoon-network" lang="es" xmltv_id="lab.161">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="co#cinecanal" lang="es" xmltv_id="lab.162">Cinecanal</channel>
+  <channel site="mi.tv" site_id="co#cinecanal-hd" lang="es" xmltv_id="lab.163">Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="co#comedy-central" lang="es" xmltv_id="lab.164">Comedy Central</channel>
+  <channel site="mi.tv" site_id="co#comedy-central-hd" lang="es" xmltv_id="lab.165">Comedy Central HD</channel>
+  <channel site="mi.tv" site_id="co#discovery-channel" lang="es" xmltv_id="lab.166">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="co#discovery-home-and-health" lang="es" xmltv_id="lab.167">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="co#discovery-id" lang="es" xmltv_id="lab.168">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="co#discovery-id-hd" lang="es" xmltv_id="lab.169">Investigation Discovery HD</channel>
+  <channel site="mi.tv" site_id="co#discovery-kids" lang="es" xmltv_id="lab.170">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="co#discovery-kids-hd" lang="es" xmltv_id="lab.171">Discovery Kids HD</channel>
+  <channel site="mi.tv" site_id="co#discovery-tlc-hd" lang="es" xmltv_id="lab.172">Discovery World</channel>
+  <channel site="mi.tv" site_id="co#discovery-turbo" lang="es" xmltv_id="lab.173">Discovery Turbo</channel>
+  <channel site="mi.tv" site_id="co#disney-jr-norte" lang="es" xmltv_id="lab.174">Disney Junior</channel>
+  <channel site="mi.tv" site_id="co#disney-multicountry" lang="es" xmltv_id="lab.175">Disney Channel</channel>
+  <channel site="mi.tv" site_id="co#disney-xd-multicountry" lang="es" xmltv_id="lab.176">Disney XD</channel>
+  <channel site="mi.tv" site_id="co#el-gourmet" lang="es" xmltv_id="lab.177">El Gourmet</channel>
+  <channel site="mi.tv" site_id="co#enlace" lang="es" xmltv_id="lab.178">Enlace</channel>
+  <channel site="mi.tv" site_id="co#fox" lang="es" xmltv_id="lab.179">Star Channel</channel>
+  <channel site="mi.tv" site_id="co#fox-1-este" lang="es" xmltv_id="lab.180">Star Series</channel>
+  <channel site="mi.tv" site_id="co#fox-1-hd" lang="es" xmltv_id="lab.181">Star Series HD</channel>
+  <channel site="mi.tv" site_id="co#fox-1-oeste" lang="es" xmltv_id="lab.182">Star Series (Oeste)</channel>
+  <channel site="mi.tv" site_id="co#fox-action" lang="es" xmltv_id="lab.183">Star Action</channel>
+  <channel site="mi.tv" site_id="co#fox-action-hd" lang="es" xmltv_id="lab.184">Star Action HD</channel>
+  <channel site="mi.tv" site_id="co#fox-action-oeste" lang="es" xmltv_id="lab.185">Star Action (Oeste)</channel>
+  <channel site="mi.tv" site_id="co#fox-classics" lang="es" xmltv_id="lab.186">Star Classics</channel>
+  <channel site="mi.tv" site_id="co#fox-comedy" lang="es" xmltv_id="lab.187">Star Comedy</channel>
+  <channel site="mi.tv" site_id="co#fox-comedy-hd" lang="es" xmltv_id="lab.188">Star Comedy HD</channel>
+  <channel site="mi.tv" site_id="co#fox-family" lang="es" xmltv_id="lab.189">Star Fun</channel>
+  <channel site="mi.tv" site_id="co#fox-family-hd" lang="es" xmltv_id="lab.190">Star Fun HD</channel>
+  <channel site="mi.tv" site_id="co#fox-ngc-hd" lang="es" xmltv_id="lab.191">Star Channel HD</channel>
+  <channel site="mi.tv" site_id="co#fox-sy-fy" lang="es" xmltv_id="lab.192">Syfy</channel>
+  <channel site="mi.tv" site_id="co#glitz" lang="es" xmltv_id="lab.193">Glitz</channel>
+  <channel site="mi.tv" site_id="co#golden" lang="es" xmltv_id="lab.194">Golden</channel>
+  <channel site="mi.tv" site_id="co#h2" lang="es" xmltv_id="lab.195">History 2</channel>
+  <channel site="mi.tv" site_id="co#hbo-family" lang="es" xmltv_id="lab.196">HBO Family</channel>
+  <channel site="mi.tv" site_id="co#hbo-family-hd" lang="es" xmltv_id="lab.197">HBO Family HD</channel>
+  <channel site="mi.tv" site_id="co#hbo-plus-panamericano-hd" lang="es" xmltv_id="lab.198">HBO Plus (Panamericano HD)</channel>
+  <channel site="mi.tv" site_id="co#hbo-signature" lang="es" xmltv_id="lab.199">HBO Signature</channel>
+  <channel site="mi.tv" site_id="co#hbo-signature-hd" lang="es" xmltv_id="lab.200">HBO Signature HD</channel>
+  <channel site="mi.tv" site_id="co#history" lang="es" xmltv_id="lab.201">History</channel>
+  <channel site="mi.tv" site_id="co#history-hd" lang="es" xmltv_id="lab.202">History HD</channel>
+  <channel site="mi.tv" site_id="co#lifetime" lang="es" xmltv_id="lab.203">Lifetime</channel>
+  <channel site="mi.tv" site_id="co#max" lang="es" xmltv_id="lab.204">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="co#max-prime" lang="es" xmltv_id="lab.205">HBO Xtreme</channel>
+  <channel site="mi.tv" site_id="co#max-prime-o" lang="es" xmltv_id="lab.206">HBO Xtreme (Oeste)</channel>
+  <channel site="mi.tv" site_id="co#max-prime-panamericano-hd" lang="es" xmltv_id="lab.207">HBO Xtreme (Panamericano HD)</channel>
+  <channel site="mi.tv" site_id="co#max-prime-panregional-hd" lang="es" xmltv_id="lab.208">HBO Xtreme (Panregional HD)</channel>
+  <channel site="mi.tv" site_id="co#max-up" lang="es" xmltv_id="lab.209">HBO Pop</channel>
+  <channel site="mi.tv" site_id="co#mtv-live-hd" lang="es" xmltv_id="lab.210">MTV Live HD</channel>
+  <channel site="mi.tv" site_id="co#nick-jr" lang="es" xmltv_id="lab.211">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="co#space" lang="es" xmltv_id="lab.212">Space</channel>
+  <channel site="mi.tv" site_id="co#space-hd" lang="es" xmltv_id="lab.213">Space HD</channel>
+  <channel site="mi.tv" site_id="co#studio-universal" lang="es" xmltv_id="lab.214">Studio Universal</channel>
+  <channel site="mi.tv" site_id="co#tcm" lang="es" xmltv_id="lab.215">TCM</channel>
+  <channel site="mi.tv" site_id="co#tnt" lang="es" xmltv_id="lab.216">TNT</channel>
+  <channel site="mi.tv" site_id="co#tnt-series" lang="es" xmltv_id="lab.217">TNT Series</channel>
+  <channel site="mi.tv" site_id="co#tooncast" lang="es" xmltv_id="lab.218">Tooncast</channel>
+  <channel site="mi.tv" site_id="co#tvc" lang="es" xmltv_id="lab.219">TVC</channel>
+  <channel site="mi.tv" site_id="co#vh1" lang="es" xmltv_id="lab.220">VH1</channel>
+  <channel site="mi.tv" site_id="co#vh1-hd" lang="es" xmltv_id="lab.221">VH1 HD</channel>
+  <channel site="mi.tv" site_id="gt#amc" lang="es" xmltv_id="lab.222">AMC</channel>
+  <channel site="mi.tv" site_id="gt#amc-hd" lang="es" xmltv_id="lab.223">AMC HD</channel>
+  <channel site="mi.tv" site_id="gt#axn" lang="es" xmltv_id="lab.224">AXN</channel>
+  <channel site="mi.tv" site_id="gt#cartoon-network" lang="es" xmltv_id="lab.225">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="gt#cinecanal" lang="es" xmltv_id="lab.226">Cinecanal</channel>
+  <channel site="mi.tv" site_id="gt#cinecanal-hd" lang="es" xmltv_id="lab.227">Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="gt#discovery-channel" lang="es" xmltv_id="lab.228">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="gt#discovery-home-and-health" lang="es" xmltv_id="lab.229">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="gt#discovery-kids" lang="es" xmltv_id="lab.230">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="gt#discovery-world-hd" lang="es" xmltv_id="lab.231">Discovery World</channel>
+  <channel site="mi.tv" site_id="gt#disney" lang="es" xmltv_id="lab.232">Disney Channel</channel>
+  <channel site="mi.tv" site_id="gt#disney-jr" lang="es" xmltv_id="lab.233">Disney Junior</channel>
+  <channel site="mi.tv" site_id="gt#distrito-comedia" lang="es" xmltv_id="lab.234">Distrito Comedia</channel>
+  <channel site="mi.tv" site_id="gt#fox" lang="es" xmltv_id="lab.235">Star Channel</channel>
+  <channel site="mi.tv" site_id="gt#fox-sy-fy" lang="es" xmltv_id="lab.236">Syfy</channel>
+  <channel site="mi.tv" site_id="gt#h2" lang="es" xmltv_id="lab.237">History 2</channel>
+  <channel site="mi.tv" site_id="gt#hbo-family" lang="es" xmltv_id="lab.238">HBO Family</channel>
+  <channel site="mi.tv" site_id="gt#hbo-signature" lang="es" xmltv_id="lab.239">HBO Signature</channel>
+  <channel site="mi.tv" site_id="gt#history" lang="es" xmltv_id="lab.240">History</channel>
+  <channel site="mi.tv" site_id="gt#history-hd" lang="es" xmltv_id="lab.241">History HD</channel>
+  <channel site="mi.tv" site_id="gt#lifetime" lang="es" xmltv_id="lab.242">Lifetime</channel>
+  <channel site="mi.tv" site_id="gt#max" lang="es" xmltv_id="lab.243">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="gt#max-prime" lang="es" xmltv_id="lab.244">HBO Xtreme</channel>
+  <channel site="mi.tv" site_id="gt#nick-jr" lang="es" xmltv_id="lab.245">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="gt#space" lang="es" xmltv_id="lab.246">Space</channel>
+  <channel site="mi.tv" site_id="gt#tcm" lang="es" xmltv_id="lab.247">TCM</channel>
+  <channel site="mi.tv" site_id="gt#tnt" lang="es" xmltv_id="lab.248">TNT</channel>
+  <channel site="mi.tv" site_id="gt#tnt-hd" lang="es" xmltv_id="lab.249">TNT HD</channel>
+  <channel site="mi.tv" site_id="gt#tnt-series" lang="es" xmltv_id="lab.250">TNT Series</channel>
+  <channel site="mi.tv" site_id="gt#tooncast" lang="es" xmltv_id="lab.251">Tooncast</channel>
+  <channel site="mi.tv" site_id="hn#amc" lang="es" xmltv_id="lab.252">AMC</channel>
+  <channel site="mi.tv" site_id="hn#axn" lang="es" xmltv_id="lab.253">AXN</channel>
+  <channel site="mi.tv" site_id="hn#cartoon-network" lang="es" xmltv_id="lab.254">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="hn#cinecanal" lang="es" xmltv_id="lab.255">Cinecanal</channel>
+  <channel site="mi.tv" site_id="hn#cinecanal-hd" lang="es" xmltv_id="lab.256">Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="hn#discovery-channel" lang="es" xmltv_id="lab.257">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="hn#discovery-hd-theater" lang="es" xmltv_id="lab.258">Discovery Theater</channel>
+  <channel site="mi.tv" site_id="hn#discovery-home-and-health" lang="es" xmltv_id="lab.259">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="hn#discovery-id" lang="es" xmltv_id="lab.260">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="hn#discovery-kids" lang="es" xmltv_id="lab.261">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="hn#discovery-world-hd" lang="es" xmltv_id="lab.262">Discovery World</channel>
+  <channel site="mi.tv" site_id="hn#disney-hd" lang="es" xmltv_id="lab.263">Disney Channel HD</channel>
+  <channel site="mi.tv" site_id="hn#disney-jr" lang="es" xmltv_id="lab.264">Disney Junior</channel>
+  <channel site="mi.tv" site_id="hn#disney-multicountry" lang="es" xmltv_id="lab.265">Disney Channel</channel>
+  <channel site="mi.tv" site_id="hn#disney-xd" lang="es" xmltv_id="lab.266">Disney XD</channel>
+  <channel site="mi.tv" site_id="hn#distrito-comedia" lang="es" xmltv_id="lab.267">Distrito Comedia</channel>
+  <channel site="mi.tv" site_id="hn#el-gourmet" lang="es" xmltv_id="lab.268">El Gourmet</channel>
+  <channel site="mi.tv" site_id="hn#enlace-tbn" lang="es" xmltv_id="lab.269">Enlace</channel>
+  <channel site="mi.tv" site_id="hn#fox" lang="es" xmltv_id="lab.270">Star Channel</channel>
+  <channel site="mi.tv" site_id="hn#fox-1-este" lang="es" xmltv_id="lab.271">Star Series</channel>
+  <channel site="mi.tv" site_id="hn#fox-1-hd" lang="es" xmltv_id="lab.272">Star Series HD</channel>
+  <channel site="mi.tv" site_id="hn#fox-1-oeste" lang="es" xmltv_id="lab.273">Star Series (Oeste)</channel>
+  <channel site="mi.tv" site_id="hn#fox-action-oeste" lang="es" xmltv_id="lab.274">Star Action (Oeste)</channel>
+  <channel site="mi.tv" site_id="hn#fox-classics" lang="es" xmltv_id="lab.275">Star Classics</channel>
+  <channel site="mi.tv" site_id="hn#fox-honduras" lang="es" xmltv_id="lab.276">Star Channel</channel>
+  <channel site="mi.tv" site_id="hn#golden" lang="es" xmltv_id="lab.277">Golden</channel>
+  <channel site="mi.tv" site_id="hn#hbo-family" lang="es" xmltv_id="lab.278">HBO Family</channel>
+  <channel site="mi.tv" site_id="hn#history" lang="es" xmltv_id="lab.279">History</channel>
+  <channel site="mi.tv" site_id="hn#lifetime" lang="es" xmltv_id="lab.280">Lifetime</channel>
+  <channel site="mi.tv" site_id="hn#max-prime" lang="es" xmltv_id="lab.281">HBO Xtreme</channel>
+  <channel site="mi.tv" site_id="hn#nick-jr" lang="es" xmltv_id="lab.282">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="hn#space" lang="es" xmltv_id="lab.283">Space</channel>
+  <channel site="mi.tv" site_id="hn#studio-universal" lang="es" xmltv_id="lab.284">Studio Universal</channel>
+  <channel site="mi.tv" site_id="hn#syfy" lang="es" xmltv_id="lab.285">Syfy</channel>
+  <channel site="mi.tv" site_id="hn#tcm" lang="es" xmltv_id="lab.286">TCM</channel>
+  <channel site="mi.tv" site_id="hn#tnt" lang="es" xmltv_id="lab.287">TNT</channel>
+  <channel site="mi.tv" site_id="hn#tnt-hd" lang="es" xmltv_id="lab.288">TNT HD</channel>
+  <channel site="mi.tv" site_id="hn#tnt-series" lang="es" xmltv_id="lab.289">TNT Series</channel>
+  <channel site="mi.tv" site_id="hn#vh1" lang="es" xmltv_id="lab.290">VH1</channel>
+  <channel site="mi.tv" site_id="mx#amc" lang="es" xmltv_id="lab.291">AMC</channel>
+  <channel site="mi.tv" site_id="mx#amc-hd" lang="es" xmltv_id="lab.292">AMC HD</channel>
+  <channel site="mi.tv" site_id="mx#axn" lang="es" xmltv_id="lab.293">AXN</channel>
+  <channel site="mi.tv" site_id="mx#canal-4-foro-tv" lang="es" xmltv_id="lab.294">FOROtv</channel>
+  <channel site="mi.tv" site_id="mx#cartoon-network" lang="es" xmltv_id="lab.295">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="mx#cinecanal" lang="es" xmltv_id="lab.296">Cinecanal</channel>
+  <channel site="mi.tv" site_id="mx#cinecanal-hd" lang="es" xmltv_id="lab.297">Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="mx#comedy-central" lang="es" xmltv_id="lab.298">Comedy Central</channel>
+  <channel site="mi.tv" site_id="mx#discovery-channel" lang="es" xmltv_id="lab.299">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="mx#discovery-hd-theater" lang="es" xmltv_id="lab.300">Discovery Theater</channel>
+  <channel site="mi.tv" site_id="mx#discovery-home-and-health" lang="es" xmltv_id="lab.301">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="mx#discovery-id" lang="es" xmltv_id="lab.302">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="mx#discovery-kids" lang="es" xmltv_id="lab.303">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="mx#discovery-world-hd" lang="es" xmltv_id="lab.304">Discovery World</channel>
+  <channel site="mi.tv" site_id="mx#disney" lang="es" xmltv_id="lab.305">Disney Channel</channel>
+  <channel site="mi.tv" site_id="mx#disney-jr" lang="es" xmltv_id="lab.306">Disney Junior</channel>
+  <channel site="mi.tv" site_id="mx#disney-xd" lang="es" xmltv_id="lab.307">Disney XD</channel>
+  <channel site="mi.tv" site_id="mx#distrito-comedia" lang="es" xmltv_id="lab.308">Distrito Comedia</channel>
+  <channel site="mi.tv" site_id="mx#el-gourmet" lang="es" xmltv_id="lab.309">El Gourmet</channel>
+  <channel site="mi.tv" site_id="mx#fox" lang="es" xmltv_id="lab.310">Star Channel</channel>
+  <channel site="mi.tv" site_id="mx#fox-1-hd" lang="es" xmltv_id="lab.311">Star Series HD</channel>
+  <channel site="mi.tv" site_id="mx#fox-1-oeste" lang="es" xmltv_id="lab.312">Star Series (Oeste)</channel>
+  <channel site="mi.tv" site_id="mx#fox-action-hd" lang="es" xmltv_id="lab.313">Star Action HD</channel>
+  <channel site="mi.tv" site_id="mx#fox-comedy-hd" lang="es" xmltv_id="lab.314">Star Comedy HD</channel>
+  <channel site="mi.tv" site_id="mx#fox-family" lang="es" xmltv_id="lab.315">Star Fun</channel>
+  <channel site="mi.tv" site_id="mx#fox-family-hd" lang="es" xmltv_id="lab.316">Star Fun HD</channel>
+  <channel site="mi.tv" site_id="mx#fox-family-oeste" lang="es" xmltv_id="lab.317">Star Fun (Oeste)</channel>
+  <channel site="mi.tv" site_id="mx#fox-oeste-hd" lang="es" xmltv_id="lab.318">Star Channel HD</channel>
+  <channel site="mi.tv" site_id="mx#fox-sy-fy" lang="es" xmltv_id="lab.319">Syfy</channel>
+  <channel site="mi.tv" site_id="mx#glitz" lang="es" xmltv_id="lab.320">Glitz</channel>
+  <channel site="mi.tv" site_id="mx#golden" lang="es" xmltv_id="lab.321">Golden</channel>
+  <channel site="mi.tv" site_id="mx#golden-edge" lang="es" xmltv_id="lab.322">Golden Edge</channel>
+  <channel site="mi.tv" site_id="mx#hbo-family" lang="es" xmltv_id="lab.323">HBO Family</channel>
+  <channel site="mi.tv" site_id="mx#history" lang="es" xmltv_id="lab.324">History</channel>
+  <channel site="mi.tv" site_id="mx#history-hd" lang="es" xmltv_id="lab.325">History HD</channel>
+  <channel site="mi.tv" site_id="mx#max" lang="es" xmltv_id="lab.326">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="mx#nick-jr" lang="es" xmltv_id="lab.327">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="mx#nickelodeon-hd" lang="es" xmltv_id="lab.328">Nick 2</channel>
+  <channel site="mi.tv" site_id="mx#space" lang="es" xmltv_id="lab.329">Space</channel>
+  <channel site="mi.tv" site_id="mx#studio-universal" lang="es" xmltv_id="lab.330">Studio Universal</channel>
+  <channel site="mi.tv" site_id="mx#tcm" lang="es" xmltv_id="lab.331">TCM</channel>
+  <channel site="mi.tv" site_id="mx#tnt" lang="es" xmltv_id="lab.332">TNT</channel>
+  <channel site="mi.tv" site_id="mx#tnt-hd" lang="es" xmltv_id="lab.333">TNT HD</channel>
+  <channel site="mi.tv" site_id="mx#tooncast" lang="es" xmltv_id="lab.334">Tooncast</channel>
+  <channel site="mi.tv" site_id="mx#vh1" lang="es" xmltv_id="lab.335">VH1</channel>
+  <channel site="mi.tv" site_id="pe#amc" lang="es" xmltv_id="lab.336">AMC</channel>
+  <channel site="mi.tv" site_id="pe#axn" lang="es" xmltv_id="lab.337">AXN</channel>
+  <channel site="mi.tv" site_id="pe#cartoon-network" lang="es" xmltv_id="lab.338">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="pe#cinecanal" lang="es" xmltv_id="lab.339">Cinecanal</channel>
+  <channel site="mi.tv" site_id="pe#discovery-channel" lang="es" xmltv_id="lab.340">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="pe#discovery-home-and-health" lang="es" xmltv_id="lab.341">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="pe#discovery-id" lang="es" xmltv_id="lab.342">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="pe#discovery-kids" lang="es" xmltv_id="lab.343">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="pe#disney-jr" lang="es" xmltv_id="lab.344">Disney Junior</channel>
+  <channel site="mi.tv" site_id="pe#disney-multicountry" lang="es" xmltv_id="lab.345">Disney Channel</channel>
+  <channel site="mi.tv" site_id="pe#disney-xd-multicountry" lang="es" xmltv_id="lab.346">Disney XD</channel>
+  <channel site="mi.tv" site_id="pe#distrito-comedia" lang="es" xmltv_id="lab.347">Distrito Comedia</channel>
+  <channel site="mi.tv" site_id="pe#el-gourmet" lang="es" xmltv_id="lab.348">El Gourmet</channel>
+  <channel site="mi.tv" site_id="pe#fox" lang="es" xmltv_id="lab.349">Star Channel</channel>
+  <channel site="mi.tv" site_id="pe#glitz" lang="es" xmltv_id="lab.350">Glitz</channel>
+  <channel site="mi.tv" site_id="pe#golden" lang="es" xmltv_id="lab.351">Golden</channel>
+  <channel site="mi.tv" site_id="pe#golden-edge" lang="es" xmltv_id="lab.352">Golden Edge</channel>
+  <channel site="mi.tv" site_id="pe#h2" lang="es" xmltv_id="lab.353">History 2</channel>
+  <channel site="mi.tv" site_id="pe#history" lang="es" xmltv_id="lab.354">History</channel>
+  <channel site="mi.tv" site_id="pe#lifetime" lang="es" xmltv_id="lab.355">Lifetime</channel>
+  <channel site="mi.tv" site_id="pe#nick-jr" lang="es" xmltv_id="lab.356">Nick Jr.</channel>
+  <channel site="mi.tv" site_id="pe#space" lang="es" xmltv_id="lab.357">Space</channel>
+  <channel site="mi.tv" site_id="pe#syfy" lang="es" xmltv_id="lab.358">Syfy</channel>
+  <channel site="mi.tv" site_id="pe#tcm" lang="es" xmltv_id="lab.359">TCM</channel>
+  <channel site="mi.tv" site_id="pe#tnt" lang="es" xmltv_id="lab.360">TNT</channel>
+  <channel site="mi.tv" site_id="pe#tnt-series" lang="es" xmltv_id="lab.361">TNT Series</channel>
+  <channel site="mi.tv" site_id="py#axn" lang="es" xmltv_id="lab.362">AXN</channel>
+  <channel site="mi.tv" site_id="py#canal-13" lang="es" xmltv_id="lab.363">RPC</channel>
+  <channel site="mi.tv" site_id="py#cartoon-network" lang="es" xmltv_id="lab.364">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="py#cinecanal" lang="es" xmltv_id="lab.365">Cinecanal</channel>
+  <channel site="mi.tv" site_id="py#comedy-central" lang="es" xmltv_id="lab.366">Comedy Central</channel>
+  <channel site="mi.tv" site_id="py#discovery" lang="es" xmltv_id="lab.367">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="py#discovery-kids" lang="es" xmltv_id="lab.368">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="py#discovery-turbo" lang="es" xmltv_id="lab.369">Discovery Turbo</channel>
+  <channel site="mi.tv" site_id="py#discovery-world-hd" lang="es" xmltv_id="lab.370">Discovery World</channel>
+  <channel site="mi.tv" site_id="py#disney" lang="es" xmltv_id="lab.371">Disney Channel</channel>
+  <channel site="mi.tv" site_id="py#disney-multicountry" lang="es" xmltv_id="lab.372">Disney Channel</channel>
+  <channel site="mi.tv" site_id="py#disney-xd" lang="es" xmltv_id="lab.373">Disney XD</channel>
+  <channel site="mi.tv" site_id="py#enlace-tbn" lang="es" xmltv_id="lab.374">Enlace</channel>
+  <channel site="mi.tv" site_id="py#fox" lang="es" xmltv_id="lab.375">Star Channel</channel>
+  <channel site="mi.tv" site_id="py#fox-1-hd" lang="es" xmltv_id="lab.376">Star Series HD</channel>
+  <channel site="mi.tv" site_id="py#fox-action-hd" lang="es" xmltv_id="lab.377">Star Action HD</channel>
+  <channel site="mi.tv" site_id="py#fox-comedy-hd" lang="es" xmltv_id="lab.378">Star Comedy HD</channel>
+  <channel site="mi.tv" site_id="py#fox-family-hd" lang="es" xmltv_id="lab.379">Star Fun HD</channel>
+  <channel site="mi.tv" site_id="py#fox-hd" lang="es" xmltv_id="lab.380">Star Channel HD</channel>
+  <channel site="mi.tv" site_id="py#golden" lang="es" xmltv_id="lab.381">Golden</channel>
+  <channel site="mi.tv" site_id="py#hbo-signature" lang="es" xmltv_id="lab.382">HBO Signature</channel>
+  <channel site="mi.tv" site_id="py#history" lang="es" xmltv_id="lab.383">History</channel>
+  <channel site="mi.tv" site_id="py#max" lang="es" xmltv_id="lab.384">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="py#max-up" lang="es" xmltv_id="lab.385">HBO Pop</channel>
+  <channel site="mi.tv" site_id="py#space" lang="es" xmltv_id="lab.386">Space</channel>
+  <channel site="mi.tv" site_id="py#studio-universal" lang="es" xmltv_id="lab.387">Studio Universal</channel>
+  <channel site="mi.tv" site_id="py#tigo-sports" lang="es" xmltv_id="lab.388">Tigo Sports</channel>
+  <channel site="mi.tv" site_id="py#tnt" lang="es" xmltv_id="lab.389">TNT</channel>
+  <channel site="mi.tv" site_id="py#tnt-series" lang="es" xmltv_id="lab.390">TNT Series</channel>
+  <channel site="mi.tv" site_id="py#tooncast" lang="es" xmltv_id="lab.391">Tooncast</channel>
+  <channel site="mi.tv" site_id="py#universal-channel-hd" lang="es" xmltv_id="lab.392">Universal Channel HD</channel>
+  <channel site="mi.tv" site_id="sv#amc" lang="es" xmltv_id="lab.393">AMC</channel>
+  <channel site="mi.tv" site_id="sv#axn" lang="es" xmltv_id="lab.394">AXN</channel>
+  <channel site="mi.tv" site_id="sv#cartoon-network" lang="es" xmltv_id="lab.395">Cartoon Network</channel>
+  <channel site="mi.tv" site_id="sv#cinecanal" lang="es" xmltv_id="lab.396">Cinecanal</channel>
+  <channel site="mi.tv" site_id="sv#cinecanal-hd" lang="es" xmltv_id="lab.397">Cinecanal HD</channel>
+  <channel site="mi.tv" site_id="sv#discovery-channel" lang="es" xmltv_id="lab.398">Discovery Channel</channel>
+  <channel site="mi.tv" site_id="sv#discovery-channel-1" lang="es" xmltv_id="lab.399">DISCOVERY CHANNEL</channel>
+  <channel site="mi.tv" site_id="sv#discovery-home-and-health" lang="es" xmltv_id="lab.400">Discovery Home &amp; Health</channel>
+  <channel site="mi.tv" site_id="sv#discovery-id" lang="es" xmltv_id="lab.401">Investigation Discovery</channel>
+  <channel site="mi.tv" site_id="sv#discovery-kids" lang="es" xmltv_id="lab.402">Discovery Kids</channel>
+  <channel site="mi.tv" site_id="sv#discovery-world-hd" lang="es" xmltv_id="lab.403">Discovery World</channel>
+  <channel site="mi.tv" site_id="sv#disney" lang="es" xmltv_id="lab.404">Disney Channel</channel>
+  <channel site="mi.tv" site_id="sv#disney-jr-norte" lang="es" xmltv_id="lab.405">Disney Junior</channel>
+  <channel site="mi.tv" site_id="sv#disney-xd" lang="es" xmltv_id="lab.406">Disney XD</channel>
+  <channel site="mi.tv" site_id="sv#el-gourmet" lang="es" xmltv_id="lab.407">El Gourmet</channel>
+  <channel site="mi.tv" site_id="sv#enlace-tbn" lang="es" xmltv_id="lab.408">Enlace</channel>
+  <channel site="mi.tv" site_id="sv#fox" lang="es" xmltv_id="lab.409">Star Channel</channel>
+  <channel site="mi.tv" site_id="sv#golden" lang="es" xmltv_id="lab.410">Golden</channel>
+  <channel site="mi.tv" site_id="sv#h2" lang="es" xmltv_id="lab.411">History 2</channel>
+  <channel site="mi.tv" site_id="sv#history" lang="es" xmltv_id="lab.412">History</channel>
+  <channel site="mi.tv" site_id="sv#lifetime" lang="es" xmltv_id="lab.413">Lifetime</channel>
+  <channel site="mi.tv" site_id="sv#max" lang="es" xmltv_id="lab.414">HBO Mundi</channel>
+  <channel site="mi.tv" site_id="sv#space" lang="es" xmltv_id="lab.415">Space</channel>
+  <channel site="mi.tv" site_id="sv#studio-universal" lang="es" xmltv_id="lab.416">Studio Universal</channel>
+  <channel site="mi.tv" site_id="sv#tcm" lang="es" xmltv_id="lab.417">TCM</channel>
+  <channel site="mi.tv" site_id="sv#tnt" lang="es" xmltv_id="lab.418">TNT</channel>
+  <channel site="mi.tv" site_id="sv#tnt-series" lang="es" xmltv_id="lab.419">TNT Series</channel>
+  <channel site="mi.tv" site_id="sv#vh1" lang="es" xmltv_id="lab.420">VH1</channel>
+</channels>

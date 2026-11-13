@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="nuevosiglo.com.uy" site_id="AMC" lang="es" xmltv_id="lab.421">AMC</channel>
+  <channel site="nuevosiglo.com.uy" site_id="AMC HD" lang="es" xmltv_id="lab.422">AMC HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="AXN" lang="es" xmltv_id="lab.423">AXN</channel>
+  <channel site="nuevosiglo.com.uy" site_id="AXN HD" lang="es" xmltv_id="lab.424">AXN HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="BABY TV" lang="es" xmltv_id="lab.425">BABY TV</channel>
+  <channel site="nuevosiglo.com.uy" site_id="CARTOON NETWORK" lang="es" xmltv_id="lab.426">CARTOON NETWORK</channel>
+  <channel site="nuevosiglo.com.uy" site_id="CARTOON NETWORK HD" lang="es" xmltv_id="lab.427">CARTOON NETWORK HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="CINECANAL" lang="es" xmltv_id="lab.428">CINECANAL</channel>
+  <channel site="nuevosiglo.com.uy" site_id="CINECANAL HD" lang="es" xmltv_id="lab.429">CINECANAL HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="DISCOVERY HD THEATER" lang="es" xmltv_id="lab.430">DISCOVERY HD THEATER</channel>
+  <channel site="nuevosiglo.com.uy" site_id="DISCOVERY KIDS" lang="es" xmltv_id="lab.431">DISCOVERY KIDS</channel>
+  <channel site="nuevosiglo.com.uy" site_id="DISCOVERY KIDS HD" lang="es" xmltv_id="lab.432">DISCOVERY KIDS HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="DISCOVERY TURBO HD" lang="es" xmltv_id="lab.433">DISCOVERY TURBO HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="DISCOVERY WORLD HD" lang="es" xmltv_id="lab.434">DISCOVERY WORLD HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="EL GOURMET" lang="es" xmltv_id="lab.435">EL GOURMET</channel>
+  <channel site="nuevosiglo.com.uy" site_id="EL GOURMET HD" lang="es" xmltv_id="lab.436">EL GOURMET HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="GLITZ" lang="es" xmltv_id="lab.437">GLITZ</channel>
+  <channel site="nuevosiglo.com.uy" site_id="GOLDEN PLUS" lang="es" xmltv_id="lab.438">GOLDEN PLUS</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HBO FAMILY HD" lang="es" xmltv_id="lab.439">HBO FAMILY HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HBO MUNDI HD" lang="es" xmltv_id="lab.440">HBO MUNDI HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HBO PLUS HD" lang="es" xmltv_id="lab.441">HBO PLUS HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HBO POP HD" lang="es" xmltv_id="lab.442">HBO POP HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HBO SIGNATURE HD" lang="es" xmltv_id="lab.443">HBO SIGNATURE HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HBO XTREME HD" lang="es" xmltv_id="lab.444">HBO XTREME HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HISTORY" lang="es" xmltv_id="lab.445">HISTORY</channel>
+  <channel site="nuevosiglo.com.uy" site_id="HISTORY HD" lang="es" xmltv_id="lab.446">HISTORY HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="LIFETIME" lang="es" xmltv_id="lab.447">LIFETIME</channel>
+  <channel site="nuevosiglo.com.uy" site_id="MAS CHIC" lang="es" xmltv_id="lab.448">MAS CHIC</channel>
+  <channel site="nuevosiglo.com.uy" site_id="MAS CHIC HD" lang="es" xmltv_id="lab.449">MAS CHIC HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="NAT GEO HD" lang="es" xmltv_id="lab.450">NAT GEO HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="NICK JR" lang="es" xmltv_id="lab.451">NICK JR</channel>
+  <channel site="nuevosiglo.com.uy" site_id="NICKELODEON" lang="es" xmltv_id="lab.452">NICKELODEON</channel>
+  <channel site="nuevosiglo.com.uy" site_id="SPACE" lang="es" xmltv_id="lab.453">SPACE</channel>
+  <channel site="nuevosiglo.com.uy" site_id="SPACE HD" lang="es" xmltv_id="lab.454">SPACE HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="STAR CHANNEL" lang="es" xmltv_id="lab.455">STAR CHANNEL</channel>
+  <channel site="nuevosiglo.com.uy" site_id="STAR CHANNEL HD" lang="es" xmltv_id="lab.456">STAR CHANNEL HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="STUDIO UNIVERSAL" lang="es" xmltv_id="lab.457">STUDIO UNIVERSAL</channel>
+  <channel site="nuevosiglo.com.uy" site_id="STUDIO UNIVERSAL HD" lang="es" xmltv_id="lab.458">STUDIO UNIVERSAL HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="SY FY" lang="es" xmltv_id="lab.459">SY FY</channel>
+  <channel site="nuevosiglo.com.uy" site_id="TCM" lang="es" xmltv_id="lab.460">TCM</channel>
+  <channel site="nuevosiglo.com.uy" site_id="TNT" lang="es" xmltv_id="lab.461">TNT</channel>
+  <channel site="nuevosiglo.com.uy" site_id="TNT HD" lang="es" xmltv_id="lab.462">TNT HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="TNT SERIES" lang="es" xmltv_id="lab.463">TNT SERIES</channel>
+  <channel site="nuevosiglo.com.uy" site_id="TNT SERIES HD" lang="es" xmltv_id="lab.464">TNT SERIES HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="TOONCAST" lang="es" xmltv_id="lab.465">TOONCAST</channel>
+  <channel site="nuevosiglo.com.uy" site_id="UNIVERSAL CHANNEL" lang="es" xmltv_id="lab.466">UNIVERSAL CHANNEL</channel>
+  <channel site="nuevosiglo.com.uy" site_id="UNIVERSAL CHANNEL HD" lang="es" xmltv_id="lab.467">UNIVERSAL CHANNEL HD</channel>
+  <channel site="nuevosiglo.com.uy" site_id="WARNER" lang="es" xmltv_id="lab.468">WARNER</channel>
+  <channel site="nuevosiglo.com.uy" site_id="WARNER HD" lang="es" xmltv_id="lab.469">WARNER HD</channel>
+</channels>

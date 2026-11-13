@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tv.movistar.com.pe" site_id="lch2188" lang="es" xmltv_id="lab.641">Cartoon Network HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2189" lang="es" xmltv_id="lab.642">TNT HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2221" lang="es" xmltv_id="lab.643">TNT</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2222" lang="es" xmltv_id="lab.644">TNT SERIES</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2224" lang="es" xmltv_id="lab.645">TNT SERIES HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2227" lang="es" xmltv_id="lab.646">STAR CHANNEL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2236" lang="es" xmltv_id="lab.647">INVESTIGATION DISCOVERY</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2238" lang="es" xmltv_id="lab.648">TCM</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2239" lang="es" xmltv_id="lab.649">SPACE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2245" lang="es" xmltv_id="lab.650">STUDIO UNIVERSAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2249" lang="es" xmltv_id="lab.651">CINECANAL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2252" lang="es" xmltv_id="lab.652">HBO SIGNATURE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2255" lang="es" xmltv_id="lab.653">HBO MUNDI</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2259" lang="es" xmltv_id="lab.654">HBO XTREME</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2268" lang="es" xmltv_id="lab.655">DISCOVERY CHANNEL</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2270" lang="es" xmltv_id="lab.656">NAT GEO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2271" lang="es" xmltv_id="lab.657">HISTORY 2</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2275" lang="es" xmltv_id="lab.658">DISCOVERY TURBO</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2284" lang="es" xmltv_id="lab.659">CARTOON NETWORK</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2285" lang="es" xmltv_id="lab.660">DISCOVERY KIDS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2288" lang="es" xmltv_id="lab.661">NICKELODEON</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2291" lang="es" xmltv_id="lab.662">DISNEY JUNIOR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2308" lang="es" xmltv_id="lab.663">CAPITAL TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2320" lang="es" xmltv_id="lab.664">STAR CHANNEL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2328" lang="es" xmltv_id="lab.665">COMEDY CENTRAL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2330" lang="es" xmltv_id="lab.666">SPACE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2335" lang="es" xmltv_id="lab.667">CINECANAL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2343" lang="es" xmltv_id="lab.668">DISCOVERY THEATER HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2347" lang="es" xmltv_id="lab.669">NAT GEO HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2353" lang="es" xmltv_id="lab.670">DISCOVERY WORLD HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2356" lang="es" xmltv_id="lab.671">DISCOVERY KIDS HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2357" lang="es" xmltv_id="lab.672">DISNEY CHANNEL HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2377" lang="es" xmltv_id="lab.673">TV CHILE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2491" lang="es" xmltv_id="lab.674">BABY TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2770" lang="es" xmltv_id="lab.675">BBC WORLD NEWS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch2796" lang="es" xmltv_id="lab.676">SPACE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3102" lang="es" xmltv_id="lab.677">TNT HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3447" lang="es" xmltv_id="lab.678">HBO SIGNATURE HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3448" lang="es" xmltv_id="lab.679">CAPITAL TV HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3489" lang="es" xmltv_id="lab.680">NAT GEO HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5605" lang="es" xmltv_id="lab.681">NICKELODEON</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5625" lang="es" xmltv_id="lab.682">TOONCAST</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5651" lang="es" xmltv_id="lab.683">DISNEY JUNIOR</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch5652" lang="es" xmltv_id="lab.684">TOONCAST</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6308" lang="es" xmltv_id="lab.685">BABY TV</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6492" lang="es" xmltv_id="lab.686">HBO PLUS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6493" lang="es" xmltv_id="lab.687">HBO FAMILY</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6494" lang="es" xmltv_id="lab.688">HBO POP</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6495" lang="es" xmltv_id="lab.689">HBO SIGNATURE</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch6496" lang="es" xmltv_id="lab.690">HBO XTREME</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7114" lang="es" xmltv_id="lab.691">BBC WORLD NEWS</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch7205" lang="es" xmltv_id="lab.692">NICK JR</channel>
+</channels>

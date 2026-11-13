@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tv.movistar.co" site_id="lch1251" lang="es" xmltv_id="lab.611">BBC World News</channel>
+  <channel site="tv.movistar.co" site_id="lch2570" lang="es" xmltv_id="lab.612">AXN</channel>
+  <channel site="tv.movistar.co" site_id="lch2571" lang="es" xmltv_id="lab.613">AMC HD</channel>
+  <channel site="tv.movistar.co" site_id="lch2583" lang="es" xmltv_id="lab.614">BabyTV</channel>
+  <channel site="tv.movistar.co" site_id="lch2586" lang="es" xmltv_id="lab.615">DISCOVERY HD THEATER</channel>
+  <channel site="tv.movistar.co" site_id="lch2593" lang="es" xmltv_id="lab.616">El Gourmet</channel>
+  <channel site="tv.movistar.co" site_id="lch2603" lang="es" xmltv_id="lab.617">Discovery Kids</channel>
+  <channel site="tv.movistar.co" site_id="lch2615" lang="es" xmltv_id="lab.618">HBO XTREME</channel>
+  <channel site="tv.movistar.co" site_id="lch2632" lang="es" xmltv_id="lab.619">Studio Universal</channel>
+  <channel site="tv.movistar.co" site_id="lch2637" lang="es" xmltv_id="lab.620">NAT GEO</channel>
+  <channel site="tv.movistar.co" site_id="lch2648" lang="es" xmltv_id="lab.621">TNT Series</channel>
+  <channel site="tv.movistar.co" site_id="lch2651" lang="es" xmltv_id="lab.622">GOLDEN HD</channel>
+  <channel site="tv.movistar.co" site_id="lch2655" lang="es" xmltv_id="lab.623">History 2</channel>
+  <channel site="tv.movistar.co" site_id="lch2661" lang="es" xmltv_id="lab.624">HBO Family</channel>
+  <channel site="tv.movistar.co" site_id="lch2668" lang="es" xmltv_id="lab.625">LIFETIME</channel>
+  <channel site="tv.movistar.co" site_id="lch2680" lang="es" xmltv_id="lab.626">Discovery Channel</channel>
+  <channel site="tv.movistar.co" site_id="lch2692" lang="es" xmltv_id="lab.627">STAR CHANNEL</channel>
+  <channel site="tv.movistar.co" site_id="lch2695" lang="es" xmltv_id="lab.628">HBO POP</channel>
+  <channel site="tv.movistar.co" site_id="lch2696" lang="es" xmltv_id="lab.629">Space</channel>
+  <channel site="tv.movistar.co" site_id="lch2698" lang="es" xmltv_id="lab.630">HBO XTREME</channel>
+  <channel site="tv.movistar.co" site_id="lch2708" lang="es" xmltv_id="lab.631">Discovery Turbo</channel>
+  <channel site="tv.movistar.co" site_id="lch2734" lang="es" xmltv_id="lab.632">Nick Jr</channel>
+  <channel site="tv.movistar.co" site_id="lch2822" lang="es" xmltv_id="lab.633">Cartoon Network</channel>
+  <channel site="tv.movistar.co" site_id="lch3772" lang="es" xmltv_id="lab.634">TNT</channel>
+  <channel site="tv.movistar.co" site_id="lch3776" lang="es" xmltv_id="lab.635">Cinecanal</channel>
+  <channel site="tv.movistar.co" site_id="lch3780" lang="es" xmltv_id="lab.636">AMC</channel>
+  <channel site="tv.movistar.co" site_id="lch3839" lang="es" xmltv_id="lab.637">Disney Channel</channel>
+  <channel site="tv.movistar.co" site_id="lch3910" lang="es" xmltv_id="lab.638">Comedy Central</channel>
+  <channel site="tv.movistar.co" site_id="lch3927" lang="es" xmltv_id="lab.639">DISNEY JUNIOR</channel>
+  <channel site="tv.movistar.co" site_id="lch3971" lang="es" xmltv_id="lab.640">Discovery Theater</channel>
+</channels>
