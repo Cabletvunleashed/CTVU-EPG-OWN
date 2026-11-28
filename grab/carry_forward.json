@@ -1,0 +1,31 @@
+{
+ "now": "2026-11-28T10:33:23+00:00",
+ "result": "carried",
+ "channels_carried": 21,
+ "programmes_kept": 503,
+ "head_gap_channels": 29,
+ "head_gap_programmes": 91,
+ "ids": [
+  "g.canalplus.com_ht.fusiontv",
+  "g.elcinema.com.mbc5.ae",
+  "g.epg.iptvx.one.rtvi.ru",
+  "g.osn.com.fatafeat.ae",
+  "g.osn.com.osnyahalaaflam.ae",
+  "g.pluto.tv_us.salemnewschannel",
+  "g.pluto.tv_us.universalcrime",
+  "g.pluto.tv_us.universalmonsters",
+  "g.programtv.onet.pl.elevensports3.pl",
+  "g.starhubtvplus.com.anc.ph",
+  "g.teleboy.ch.curiositynow.de",
+  "g.teleboy.ch.filmgold.de",
+  "g.teleboy.ch.redbulltv.at",
+  "g.teleboy.ch.terramaterwild.de",
+  "g.teleboy.ch.toptruecrime.de",
+  "g.tv.dir.bg.disneychannel.bg",
+  "g.tv.dir.bg.vivacomarena.bg",
+  "g.tvplus.com.tr.akittv.tr",
+  "g.tvplus.com.tr.sozcutv.tr",
+  "g.visionplus.id.tvone.id",
+  "g.web.magentatv.de.skysport5.de"
+ ]
+}
